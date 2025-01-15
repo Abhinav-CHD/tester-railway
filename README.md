@@ -1,3 +1,5 @@
+# NeuraChat
+
 <img src="https://i.ibb.co/vLR1wpG/logo.png" width="280"/>
 
 ### An AI Chatbot framework built in Python
